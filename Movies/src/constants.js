@@ -7,6 +7,7 @@ export const COLORS = {
   GREY: "#242124",
 }
 
+
 export const FONT_FAMILIES = {
   TITLE: "Oswald",
   TEXT: "Roboto",
